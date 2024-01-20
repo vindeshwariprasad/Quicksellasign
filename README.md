@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+FIRST INSTALL NPM INSTALL THEN :
+NPM START.
+
+Live preview
+https://65ab6aa2e8f5d65d00594e0c--melodic-marzipan-e0f031.netlify.app/
 
 ### `npm start`
 
