@@ -1,0 +1,25 @@
+.user {
+    display: flex;
+  }
+
+  .point {
+    position: relative;
+    top: 25px;
+    right: 15px;
+    color: grey;
+  }
+  .icon {
+    
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 7px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;
+    background-color: blue;
+    display: grid;
+    place-items: center;
+    
+  }
+  
